@@ -1,0 +1,54 @@
+{
+  "sourceLanguage" : "en",
+  "version" : "1.0",
+  "strings" : {
+    "NSBluetoothAlwaysUsageDescription" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app talks to its USB board over Bluetooth to see the screen and move the pointer."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本 App 通过蓝牙与 USB 开发板通信，用来查看屏幕和移动指针。"
+          }
+        }
+      }
+    },
+    "NSLocalNetworkUsageDescription" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The app receives the screen from its board over the board's Wi-Fi, and connects to a model server you configure on your local network."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本 App 通过板子的 Wi-Fi 接收屏幕画面，并连接你在局域网中配置的模型服务器。"
+          }
+        }
+      }
+    },
+    "NSSpeechRecognitionUsageDescription" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "With Listen to phone audio on, the app turns the sound your iPhone plays while mirroring into text, on this iPhone, so the agent can follow videos and calls."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开“收听手机声音”后，本 App 会在这台 iPhone 上把投屏时手机播放的声音转成文字，让 Agent 能听懂视频和通话内容。"
+          }
+        }
+      }
+    }
+  }
+}
